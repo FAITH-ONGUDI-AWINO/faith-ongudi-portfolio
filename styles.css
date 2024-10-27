@@ -1,0 +1,35 @@
+/* Basic styling for the layout */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #333333;
+}
+
+header {
+    background-color: #29bb66;
+    color: green;
+    padding: 1em;
+    text-align: center;
+}
+
+nav a {
+    color: red;
+    text-decoration: none;
+    margin: 0 1em;
+}
+
+section {
+    padding: 2em;
+    text-align: center;
+}
+
+footer {
+    background-color: #17d466;
+    color: blue;
+    text-align: center;
+    padding: 1em;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
